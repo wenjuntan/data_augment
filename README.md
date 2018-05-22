@@ -1,1 +1,1 @@
-# data augment for deep learning segmentation
+# data augmentation for deep learning segmentation
